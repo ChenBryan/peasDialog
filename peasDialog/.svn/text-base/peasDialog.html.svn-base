@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<head>
+<title>测试peasDialog</title>
+<meta charset='utf-8'>
+<script src='http://www.dev.anoah.com/cw-writer/js/public/jquery-1.7.2.min.js' type='text/javascript'></script>
+<script src='peasDialog.js' type='text/javascript'></script>
+<link rel="stylesheet" type="text/css" href="peasDialog.css"></link>
+
+<script type='text/javascript'>
+window.onload = function() {
+  
+    var config = {
+	    id  : 'test',
+            content : '测试测试',
+            //ok :'',
+            //title : '',
+            timeout : 3000,
+	    onCloseAfter : function(){console.log('close')}
+	};
+    $.peasDialog.openDialog(config);
+
+    
+    var config1 = {
+	    id  : 'test1',
+            left : 0,
+            top :0,
+            ok : '',
+            lockBG : false,
+            content : 'dsasa',
+	    onCloseAfter : function(){console.log('close1')}
+	};
+    $.peasDialog.openDialog(config1);
+
+
+    var config2 = {
+            followId : 'abc',     
+	    id  : 'test2',
+            left : 0,
+            top : 0,
+            content : 'test2',
+	    onCloseAfter : function(){console.log('close2')}
+	};
+    $.peasDialog.openDialog(config2);
+
+    var config3 = {
+	    id  : 'replace',
+            left : 300,
+            top : 100,
+            content : '替换存在的id元素',
+	    onCloseAfter : function(){console.log('close3')}
+	};
+    $.peasDialog.openDialog(config3);
+
+}
+</script>
+</head>
+<body>
+<div id='abc' style="width:300px;height:200px;left:100px;top:400px;border:1px solid #000;position:absolute;"></div>
+<div id='replace' style="width:300px;height:200px;left:300px;top:400px;border:1px solid #000;position:absolute;"></div>
+</body>
+</html>

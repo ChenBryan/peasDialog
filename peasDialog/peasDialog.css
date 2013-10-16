@@ -1,0 +1,78 @@
+@charset "utf-8";
+
+body {margin : 0px;padding:0px}
+
+.peasDialog {
+
+    background : #ffffff;
+    border:1px solid #ddd;
+    /*firefox*/
+    -moz-border-radius: 5px;
+    /*css3*/
+    border-radius: 5px;
+    /*webkit*/
+    -webkit-border-radius: 5px;
+    -webkit-box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    /*IE6,IE7语法*/
+    filter:progid:DXImageTransform.Microsoft.dropshadow(OffX=5, OffY=5, Color='gray');
+    /*IE8语法,可恶的IE，不同的版本还要写的不一样*/
+    -ms-filter:"progid:DXImageTransform.Microsoft.dropshadow(OffX=5, OffY=5, Color='gray')"
+}
+
+/*背景遮盖层*/
+.peasDialogLockBG {
+     background : #000000;
+     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=10)"; /*IE8*/
+     filter:alpha(opacity=10);  /*IE5、IE5.5、IE6、IE7*/
+     opacity: 0.1;  /*Opera9.0+、Firefox1.5+、Safari、Chrome*/
+}
+
+.peasDialogHead { 
+    line-height:20px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+.peasDialogTitle {
+    top : 0;
+    left : 0;
+    color: #6792E4;
+    float : left;
+}
+
+.peasDialogClose {
+    width: 32px;
+    height: 22px;
+    float : right;
+    background: url('images/panel_tools.gif') no-repeat -32px 0px;
+    cursor : pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+.peasDialogClose:hover {
+    background: url('images/panel_tools.gif') no-repeat -32px -44px;
+}
+
+.peasDialogContent {
+  
+}
+
+.peasDialogFoot{
+    line-height:20px;
+}
+
+.peasDialogOk {
+    width : 80px;
+    height : 20px;
+    text-align : center;
+    float : right;
+    cursor : pointer;
+    border : 1px solid #ddd;
+}
