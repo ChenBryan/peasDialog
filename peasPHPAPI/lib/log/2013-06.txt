@@ -1,0 +1,96 @@
+2013-06-04 21:49:51 0 the file not exist  /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 174
+2013-06-04 22:15:30 0 the file not exist  /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 167
+2013-06-04 22:20:36 400 the post  request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 95
+2013-06-04 23:16:23 400 the post  request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 82
+2013-06-04 23:16:23 400 the post  request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 82
+2013-06-04 23:16:23 400 the post  request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 82
+2013-06-04 23:16:24 400 the post  request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 82
+2013-06-04 23:16:24 400 the post  request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 82
+2013-06-04 23:16:24 400 the post  request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 82
+2013-06-04 23:16:24 400 the post  request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 82
+2013-06-04 23:16:25 400 the post  request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 82
+2013-06-04 23:16:25 400 the post  request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 82
+2013-06-04 23:16:25 400 the post  request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 82
+2013-06-04 23:16:25 400 the post  request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 82
+2013-06-04 23:16:25 400 the post  request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 82
+2013-06-04 23:16:25 400 the post  request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 82
+2013-06-04 23:16:26 400 the post  request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 82
+2013-06-04 23:16:26 400 the post  request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 82
+2013-06-04 23:16:26 400 the post  request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 82
+2013-06-05 22:29:37 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 82
+2013-06-05 22:30:05 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 119
+2013-06-05 23:26:18 400 the dir not find /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 142
+2013-06-05 23:34:47 400 the dir not find /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 143
+2013-06-06 23:46:32 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-06 23:47:11 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-06 23:47:13 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-06 23:48:19 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-06 23:48:20 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-06 23:48:20 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-06 23:48:20 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-06 23:48:20 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-06 23:48:20 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-06 23:48:20 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-06 23:48:21 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-06 23:48:21 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-06 23:48:21 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-06 23:48:21 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-06 23:48:21 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-06 23:48:21 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-06 23:48:22 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-06 23:48:29 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-06 23:48:31 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-06 23:48:31 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-06 23:48:37 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-07 21:12:38 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-07 21:52:21 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-07 22:51:37 400 the return is not array /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-07 22:51:37 400 the return is not array /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-07 22:51:37 400 the return is not array /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-07 22:51:38 400 the return is not array /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-07 22:51:38 400 the return is not array /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-07 22:51:38 400 the return is not array /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-07 22:51:41 400 the return is not array /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-07 22:51:41 400 the return is not array /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-07 22:51:42 400 the return is not array /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-07 22:51:42 400 the return is not array /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-07 22:52:04 400 the return is not array /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-07 22:53:31 400 the return is not array /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-07 22:53:56 400 the return is not array /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 131
+2013-06-07 22:54:19 400 the return is not array /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 131
+2013-06-08 22:41:42 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 134
+2013-06-08 23:52:52 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 134
+2013-06-17 22:24:27 400 the return is not array /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-17 22:25:24 400 the return is not array /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-17 22:25:24 400 the return is not array /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-17 22:25:25 400 the return is not array /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-17 22:25:25 400 the return is not array /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-17 22:25:25 400 the return is not array /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-17 22:35:39 400 the return is not array /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-17 22:35:51 400 the return is not array /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-17 22:35:52 400 the return is not array /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-17 22:35:52 400 the return is not array /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-17 22:36:09 400 the return is not array /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-17 22:36:10 400 the return is not array /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-17 22:36:11 400 the return is not array /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 130
+2013-06-18 22:07:55 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 135
+2013-06-18 22:34:20 500  Don't support request type  /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 102
+2013-06-18 22:34:26 500  Don't support request type  /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 102
+2013-06-18 22:35:44 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 138
+2013-06-18 22:36:59 500  Don't support request type  /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 102
+2013-06-18 22:37:01 500  Don't support request type  /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 102
+2013-06-18 22:49:25 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 145
+2013-06-18 22:50:25 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 145
+2013-06-18 23:00:48 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 146
+2013-06-18 23:01:21 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 146
+2013-06-18 23:02:15 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 147
+2013-06-18 23:02:27 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 147
+2013-06-20 21:26:40 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 96
+2013-06-20 21:57:44 400 the file not find /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 179
+2013-06-20 21:57:44 400 the file not find /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 179
+2013-06-20 22:09:47 400 the file not find /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 179
+2013-06-20 22:10:09 400 the file not find /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 179
+2013-06-20 22:10:33 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 96
+2013-06-20 22:10:47 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 96
+2013-06-20 22:14:05 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 96
+2013-06-20 23:07:26 400 the request format is error /usr/local/nginx/html/peasPHPAPI/lib/Router.class.php 91

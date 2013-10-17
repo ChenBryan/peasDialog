@@ -1,0 +1,20 @@
+<?php
+/**
+ * Created with Vim7.3
+ * description : api请求模板类  
+ * @author : Chen weihan <csq-3@163.com>
+ * @since : 2013年06月07日 星期五 23时35分42秒
+ * @filename : lib/pdo.class.php
+ * @version : 
+ * @package : 
+ */
+
+class BaseAPI {
+
+
+}
+
+?>
+
+        
+        
